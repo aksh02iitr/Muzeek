@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.8.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.8.0\\res\\raw\\gtm_analytics"
+    }
+]

@@ -1,0 +1,3688 @@
+[
+    {
+        "outputFile": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 68,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 72,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 79,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 90,
+                    "endOffset": 584
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 589,
+                    "endColumn": 102,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 102,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 104,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 106,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 108,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 108,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 108,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 108,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 108,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 106,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 102,
+                    "endOffset": 1757
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1762,
+                    "endColumn": 118,
+                    "endOffset": 1876
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 104,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endColumn": 120,
+                    "endOffset": 2412
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2417,
+                    "endColumn": 100,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2660
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2665,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 102,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 118,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 106,
+                    "endOffset": 3130
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3135,
+                    "endColumn": 102,
+                    "endOffset": 3233
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3238,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3708
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3713,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3873
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3878,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4181
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4186,
+                    "endColumn": 118,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4672
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4677,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4821
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4826,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endColumn": 111,
+                    "endOffset": 5082
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5087,
+                    "endColumn": 146,
+                    "endOffset": 5229
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5234,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5382
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5387,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5529
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5534,
+                    "endColumn": 74,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 88,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endColumn": 86,
+                    "endOffset": 5780
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5785,
+                    "endColumn": 100,
+                    "endOffset": 5881
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5886,
+                    "endColumn": 102,
+                    "endOffset": 5984
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5989,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 9052
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9057,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 9238
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9243,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12318
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12323,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12516
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12521,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12716
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12721,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12839
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12844,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12962
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12967,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13075
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13080,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13258
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13263,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13389
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13394,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 13590
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13595,
+                    "endColumn": 88,
+                    "endOffset": 13679
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13684,
+                    "endColumn": 110,
+                    "endOffset": 13790
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13795,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 14023
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14028,
+                    "endColumn": 100,
+                    "endOffset": 14124
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14129,
+                    "endColumn": 94,
+                    "endOffset": 14219
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14224,
+                    "endColumn": 122,
+                    "endOffset": 14342
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14347,
+                    "endColumn": 128,
+                    "endOffset": 14471
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14476,
+                    "endColumn": 116,
+                    "endOffset": 14588
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14593,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 14765
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14770,
+                    "endColumn": 98,
+                    "endOffset": 14864
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14869,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 14999
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15004,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15142
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15147,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15277
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15282,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15396
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15401,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15597
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15602,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15716
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15721,
+                    "endColumn": 92,
+                    "endOffset": 15809
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15814,
+                    "endColumn": 110,
+                    "endOffset": 15920
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15925,
+                    "endColumn": 55,
+                    "endOffset": 15976
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15981,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16083
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16088,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16278
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16283,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16389
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16394,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16522
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16527,
+                    "endColumn": 94,
+                    "endOffset": 16617
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16622,
+                    "endColumn": 90,
+                    "endOffset": 16708
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16713,
+                    "endColumn": 90,
+                    "endOffset": 16799
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16804,
+                    "endColumn": 116,
+                    "endOffset": 16916
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16921,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 17055
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 17060,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 17192
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17197,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17473
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17478,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17986
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 17125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17991,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 18511
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17130,
+                        "endLine": 240,
+                        "endColumn": 12,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 18516,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 19191
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 19196,
+                    "endColumn": 56,
+                    "endOffset": 19248
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19253,
+                    "endColumn": 57,
+                    "endOffset": 19306
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 68,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 72,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 79,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 90,
+                    "endOffset": 584
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 589,
+                    "endColumn": 102,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 102,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 104,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 106,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 108,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 108,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 108,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 108,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 108,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 106,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 102,
+                    "endOffset": 1757
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1762,
+                    "endColumn": 118,
+                    "endOffset": 1876
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 104,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endColumn": 120,
+                    "endOffset": 2412
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2417,
+                    "endColumn": 100,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2660
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2665,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 102,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 118,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 106,
+                    "endOffset": 3130
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3135,
+                    "endColumn": 102,
+                    "endOffset": 3233
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3238,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3708
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3713,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3873
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3878,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4181
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4186,
+                    "endColumn": 118,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4672
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4677,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4821
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4826,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endColumn": 111,
+                    "endOffset": 5082
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5087,
+                    "endColumn": 146,
+                    "endOffset": 5229
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5234,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5382
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5387,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5529
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5534,
+                    "endColumn": 74,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 88,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endColumn": 86,
+                    "endOffset": 5780
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5785,
+                    "endColumn": 100,
+                    "endOffset": 5881
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5886,
+                    "endColumn": 102,
+                    "endOffset": 5984
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5989,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 9052
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9057,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 9238
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9243,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12318
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12323,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12516
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12521,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12716
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12721,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12839
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12844,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12962
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12967,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13075
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13080,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13258
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13263,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13389
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13394,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 13590
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13595,
+                    "endColumn": 88,
+                    "endOffset": 13679
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13684,
+                    "endColumn": 110,
+                    "endOffset": 13790
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13795,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 14023
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14028,
+                    "endColumn": 100,
+                    "endOffset": 14124
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14129,
+                    "endColumn": 94,
+                    "endOffset": 14219
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14224,
+                    "endColumn": 122,
+                    "endOffset": 14342
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14347,
+                    "endColumn": 128,
+                    "endOffset": 14471
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14476,
+                    "endColumn": 116,
+                    "endOffset": 14588
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14593,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 14765
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14770,
+                    "endColumn": 98,
+                    "endOffset": 14864
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14869,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 14999
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15004,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15142
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15147,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15277
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15282,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15396
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15401,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15597
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15602,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15716
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15721,
+                    "endColumn": 92,
+                    "endOffset": 15809
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15814,
+                    "endColumn": 110,
+                    "endOffset": 15920
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15925,
+                    "endColumn": 55,
+                    "endOffset": 15976
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15981,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16083
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16088,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16278
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16283,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16389
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16394,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16522
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16527,
+                    "endColumn": 94,
+                    "endOffset": 16617
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16622,
+                    "endColumn": 90,
+                    "endOffset": 16708
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16713,
+                    "endColumn": 90,
+                    "endOffset": 16799
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16804,
+                    "endColumn": 116,
+                    "endOffset": 16916
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16921,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 17055
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 17060,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 17192
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17197,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17473
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17478,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17986
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 17125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17991,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 18511
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17130,
+                        "endLine": 240,
+                        "endColumn": 12,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 18516,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 19191
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 19196,
+                    "endColumn": 56,
+                    "endOffset": 19248
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19253,
+                    "endColumn": 57,
+                    "endOffset": 19306
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
+                    }
+                }
+            }
+        ]
+    }
+]

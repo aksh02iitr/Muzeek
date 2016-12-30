@@ -1,0 +1,4 @@
+CHANGED,C:\Users\HP\Desktop\Andro Examples\AdvancedMusicPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\stabstudio\advancedmusicplayer\ArtistsFragment$ArtistComparator$override.class
+CHANGED,C:\Users\HP\Desktop\Andro Examples\AdvancedMusicPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\stabstudio\advancedmusicplayer\ArtistsFragment$1$override.class
+CHANGED,C:\Users\HP\Desktop\Andro Examples\AdvancedMusicPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\HP\Desktop\Andro Examples\AdvancedMusicPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\stabstudio\advancedmusicplayer\ArtistsFragment$override.class

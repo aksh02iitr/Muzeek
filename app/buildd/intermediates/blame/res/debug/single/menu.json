@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\equaliser.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\equaliser.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\android_building_music_player.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\android_building_music_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\meta_data.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\meta_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\meta_data.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\meta_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\play_list.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\play_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\play_list.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\play_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\equaliser.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Android_Development\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\equaliser.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\android_building_music_player.xml",
+        "source": "C:\\Users\\HP\\Desktop\\Andro Examples\\AdvancedMusicPlayer\\app\\src\\main\\res\\menu\\android_building_music_player.xml"
+    }
+]
