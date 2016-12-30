@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdvancedMusicPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play_list">PlayListActivity</string>
+    <string name="title_activity_android_building_music_player">AndroidBuildingMusicPlayerActivity</string>
+    <string name="title_activity_meta_data">MetaData</string>
+    <string name="title_activity_equaliser">Equaliser</string>
+    <string name="title_activity_add_new">AddNew</string>
+    <string name="title_activity_playlist2">PlaylistActivity2</string>
+    <string name="title_activity_create_playlist">CreatePlaylistActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_song">SelectSongActivity</string>
+
+</resources>

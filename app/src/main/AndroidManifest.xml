@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.stabstudio.advancedmusicplayer">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PlayListActivity"
+            android:label="@string/title_activity_play_list" />
+        <activity
+            android:name=".MetaData"
+            android:label="@string/title_activity_meta_data" />
+        <activity
+            android:name=".Equaliser"
+            android:label="@string/title_activity_equaliser" />
+        <activity
+            android:name=".AddNew"
+            android:label="@string/title_activity_add_new"
+            android:theme="@android:style/Theme.Material.Dialog" />
+        <activity
+            android:name=".PlaylistActivity2"
+            android:label="@string/title_activity_playlist2" />
+        <activity android:name=".OpenPlayListActivity" />
+        <activity
+            android:name=".CreatePlaylistActivity"
+            android:label="@string/title_activity_create_playlist"
+            android:theme="@android:style/Theme.Material.Dialog" />
+        <activity android:name=".SelectSongActivity" />
+        <activity android:name=".OpenItemActivity"></activity>
+    </application>
+
+</manifest>
